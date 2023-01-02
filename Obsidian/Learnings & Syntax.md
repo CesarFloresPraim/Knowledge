@@ -11,3 +11,4 @@ Example: ![[DUMMY DATA#This is a dummy hashtag to reference.]]
 
 ## Hashtags vs Links
 Main difference between is the searchability on hashtags. You can lookup on the left navbar related ideas to some hashtags. 
+
